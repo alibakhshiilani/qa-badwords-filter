@@ -1,0 +1,13 @@
+{
+  "name": "Badwords Filter",
+  "uri": "qa-backwords-filter",
+  "description": "Question2Answer badwords filter (questions,answers,comments ...)",
+  "version": "0.0.1",
+  "date": "27-07-27",
+  "author": "Ali Bakhshi Ilani",
+  "author_uri": "https://github.com/alibakhshiilani/qa-badwords-filter",
+  "license": "MIT",
+  "update_uri": "https://github.com/alibakhshiilani/qa-badwords-filter",
+  "min_q2a": "1.4",
+  "min_php": "5.1"
+}
